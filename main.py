@@ -16,3 +16,4 @@ for one_char in word:
         wynik+=f'{morse_char} '
 print(wynik)
 
+#s
